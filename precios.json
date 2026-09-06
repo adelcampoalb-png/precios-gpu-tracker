@@ -40,9 +40,9 @@
     },
     {
       "fecha": "2026-09-06",
-      "precio_eur": 553.68,
-      "tienda": "idealo.es (comparador, oferta MSI)",
-      "url": "https://www.idealo.es/precios/206003888/msi-geforce-rtx-5070.html"
+      "precio_eur": 550.88,
+      "tienda": "idealo.es (comparador, oferta GigaByte)",
+      "url": "https://www.idealo.es/precios/206026491/gigabyte-geforce-rtx-5070.html"
     }
   ],
   "AMD Radeon RX 9070": [
@@ -99,6 +99,24 @@
       "precio_eur": 137.17,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html"
+    }
+  ],
+  "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
+    {
+      "fecha": "2026-09-06",
+      "precio_eur": 284.99,
+      "tienda": "idealo.es (comparador, oferta Corsair Vengeance LPX)",
+      "url": "https://www.idealo.es/precios/201654160/corsair-vengeance-lpx-32gb-kit-ddr4-3200-cl16.html",
+      "nota": "Corsair Vengeance LPX 32GB (2x16GB) CL16"
+    }
+  ],
+  "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
+    {
+      "fecha": "2026-09-06",
+      "precio_eur": 549.99,
+      "tienda": "idealo.es (comparador, oferta Kingston FURY Beast)",
+      "url": "https://www.idealo.es/precios/201493489/kingston-fury-beast-64gb-dual-kit-ddr4-3200-cl16-kf432c16bbk2-64.html",
+      "nota": "Kingston FURY Beast 64GB (2x32GB) CL16, ref. KF432C16BBK2/64"
     }
   ]
 }
