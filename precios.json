@@ -6,11 +6,25 @@
       "tienda": "idealo.es (comparador, oferta Acer 8GB)",
       "url": "https://www.idealo.es/precios/207085117/acer-radeon-rx-9060-xt.html",
       "nota": "Variante 8GB VRAM"
+    },
+    {
+      "fecha": "2026-09-06",
+      "precio_eur": 348.89,
+      "tienda": "idealo.es (comparador, oferta GigaByte 8GB)",
+      "url": "https://www.idealo.es/precios/206564100/gigabyte-radeon-rx-9060-xt.html",
+      "nota": "Variante 8GB VRAM"
     }
   ],
   "NVIDIA RTX 5060 Ti": [
     {
       "fecha": "2026-09-05",
+      "precio_eur": 358.9,
+      "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
+      "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
+      "nota": "Variante 8GB VRAM"
+    },
+    {
+      "fecha": "2026-09-06",
       "precio_eur": 358.9,
       "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
       "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
@@ -23,11 +37,23 @@
       "precio_eur": 553.68,
       "tienda": "idealo.es (comparador, oferta MSI)",
       "url": "https://www.idealo.es/precios/206003888/msi-geforce-rtx-5070.html"
+    },
+    {
+      "fecha": "2026-09-06",
+      "precio_eur": 553.68,
+      "tienda": "idealo.es (comparador, oferta MSI)",
+      "url": "https://www.idealo.es/precios/206003888/msi-geforce-rtx-5070.html"
     }
   ],
   "AMD Radeon RX 9070": [
     {
       "fecha": "2026-09-05",
+      "precio_eur": 617.55,
+      "tienda": "idealo.es (comparador, oferta ASUS)",
+      "url": "https://www.idealo.es/precios/206039885/asus-radeon-rx-9070.html"
+    },
+    {
+      "fecha": "2026-09-06",
       "precio_eur": 617.55,
       "tienda": "idealo.es (comparador, oferta ASUS)",
       "url": "https://www.idealo.es/precios/206039885/asus-radeon-rx-9070.html"
@@ -39,6 +65,12 @@
       "precio_eur": 123.19,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html"
+    },
+    {
+      "fecha": "2026-09-06",
+      "precio_eur": 123.19,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html"
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -47,11 +79,23 @@
       "precio_eur": 111.75,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html"
+    },
+    {
+      "fecha": "2026-09-06",
+      "precio_eur": 111.75,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html"
     }
   ],
   "AMD Ryzen 5 5600X": [
     {
       "fecha": "2026-09-05",
+      "precio_eur": 137.17,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html"
+    },
+    {
+      "fecha": "2026-09-06",
       "precio_eur": 137.17,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html"
