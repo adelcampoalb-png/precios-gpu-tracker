@@ -20,6 +20,13 @@
       "tienda": "idealo.es (comparador, oferta GigaByte 8GB)",
       "url": "https://www.idealo.es/precios/206564100/gigabyte-radeon-rx-9060-xt.html",
       "nota": "Variante 8GB VRAM"
+    },
+    {
+      "fecha": "2026-09-08",
+      "precio_eur": 348.89,
+      "tienda": "idealo.es (comparador, oferta GigaByte 8GB)",
+      "url": "https://www.idealo.es/precios/206564100/gigabyte-radeon-rx-9060-xt.html",
+      "nota": "Variante 8GB VRAM"
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -39,6 +46,13 @@
     },
     {
       "fecha": "2026-09-07",
+      "precio_eur": 358.9,
+      "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
+      "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
+      "nota": "Variante 8GB VRAM"
+    },
+    {
+      "fecha": "2026-09-08",
       "precio_eur": 358.9,
       "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
       "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
@@ -63,6 +77,12 @@
       "precio_eur": 540.8,
       "tienda": "idealo.es (comparador, oferta Zotac)",
       "url": "https://www.idealo.es/precios/206029274/zotac-geforce-rtx-5070.html"
+    },
+    {
+      "fecha": "2026-09-08",
+      "precio_eur": 524.77,
+      "tienda": "idealo.es (comparador, oferta Zotac Solid OC)",
+      "url": "https://www.idealo.es/precios/206029291/zotac-geforce-rtx-5070-solid-oc.html"
     }
   ],
   "AMD Radeon RX 9070": [
@@ -80,6 +100,12 @@
     },
     {
       "fecha": "2026-09-07",
+      "precio_eur": 617.55,
+      "tienda": "idealo.es (comparador, oferta ASUS)",
+      "url": "https://www.idealo.es/precios/206039885/asus-radeon-rx-9070.html"
+    },
+    {
+      "fecha": "2026-09-08",
       "precio_eur": 617.55,
       "tienda": "idealo.es (comparador, oferta ASUS)",
       "url": "https://www.idealo.es/precios/206039885/asus-radeon-rx-9070.html"
@@ -103,6 +129,12 @@
       "precio_eur": 123.19,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html"
+    },
+    {
+      "fecha": "2026-09-08",
+      "precio_eur": 123.19,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html"
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -120,6 +152,12 @@
     },
     {
       "fecha": "2026-09-07",
+      "precio_eur": 111.75,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html"
+    },
+    {
+      "fecha": "2026-09-08",
       "precio_eur": 111.75,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html"
@@ -143,6 +181,12 @@
       "precio_eur": 137.17,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html"
+    },
+    {
+      "fecha": "2026-09-08",
+      "precio_eur": 137.17,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html"
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -155,6 +199,13 @@
     },
     {
       "fecha": "2026-09-07",
+      "precio_eur": 199.99,
+      "tienda": "Amazon.es",
+      "url": "https://www.amazon.es/CORSAIR-VENGEANCE-CL16-20-20-38-Ordenador-Sobremesa/dp/B07RW6Z692",
+      "nota": "Corsair Vengeance LPX 32GB (2x16GB) CL16, modelo CMK32GX4M2E3200C16"
+    },
+    {
+      "fecha": "2026-09-08",
       "precio_eur": 199.99,
       "tienda": "Amazon.es",
       "url": "https://www.amazon.es/CORSAIR-VENGEANCE-CL16-20-20-38-Ordenador-Sobremesa/dp/B07RW6Z692",
@@ -175,6 +226,13 @@
       "tienda": "idealo.es (comparador, oferta Kingston FURY Beast RGB)",
       "url": "https://www.idealo.es/precios/203565261/kingston-fury-beast-rgb-64gb-kit-ddr4-3200-cl16.html",
       "nota": "Kingston FURY Beast RGB 64GB (2x32GB) CL16 (variante RGB, mismo fabricante/CL que el registro anterior)"
+    },
+    {
+      "fecha": "2026-09-08",
+      "precio_eur": 549.99,
+      "tienda": "idealo.es (comparador, oferta Kingston FURY Beast KF432C16BBK2/64)",
+      "url": "https://www.idealo.es/precios/201493489/kingston-fury-beast-64gb-dual-kit-ddr4-3200-cl16-kf432c16bbk2-64.html",
+      "nota": "Kingston FURY Beast 64GB (2x32GB) CL16, ref. KF432C16BBK2/64 (variante RGB del dia anterior agotada/sin oferta destacada; esta es hoy la mas barata disponible)"
     }
   ]
 }
