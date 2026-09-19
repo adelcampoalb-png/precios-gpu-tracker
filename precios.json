@@ -90,6 +90,13 @@
       "tienda": "idealo.es (comparador, oferta ASRock Challenger 8GB OC)",
       "url": "https://www.idealo.es/precios/206592424/asrock-radeon-rx-9060-xt.html",
       "nota": "Variante 8GB VRAM. BAJADA vs 348,89 EUR del 2026-09-16 (-7,9%)"
+    },
+    {
+      "fecha": "2026-09-19",
+      "precio_eur": 321.23,
+      "tienda": "idealo.es (comparador, oferta ASRock Challenger 8GB OC)",
+      "url": "https://www.idealo.es/precios/206592424/asrock-radeon-rx-9060-xt.html",
+      "nota": "Variante 8GB VRAM. Sin cambios vs ultimo registro"
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -183,6 +190,13 @@
       "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
       "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
       "nota": "Variante 8GB VRAM. Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
+      "precio_eur": 358.9,
+      "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
+      "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
+      "nota": "Variante 8GB VRAM. Sin cambios vs ultimo registro"
     }
   ],
   "NVIDIA RTX 5070": [
@@ -260,6 +274,13 @@
     },
     {
       "fecha": "2026-09-18",
+      "precio_eur": 524.77,
+      "tienda": "idealo.es (comparador, oferta Zotac Solid OC)",
+      "url": "https://www.idealo.es/precios/206029291/zotac-geforce-rtx-5070-solid-oc.html",
+      "nota": "Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
       "precio_eur": 524.77,
       "tienda": "idealo.es (comparador, oferta Zotac Solid OC)",
       "url": "https://www.idealo.es/precios/206029291/zotac-geforce-rtx-5070-solid-oc.html",
@@ -346,6 +367,13 @@
       "tienda": "idealo.es (comparador, oferta ASUS Prime OC EVO)",
       "url": "https://www.idealo.es/precios/207326964/asus-radeon-rx-9070-prime-oc-evo.html",
       "nota": "Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
+      "precio_eur": 578.99,
+      "tienda": "idealo.es (comparador, oferta ASUS Prime OC EVO)",
+      "url": "https://www.idealo.es/precios/207326964/asus-radeon-rx-9070-prime-oc-evo.html",
+      "nota": "Sin cambios vs ultimo registro"
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -423,6 +451,13 @@
     },
     {
       "fecha": "2026-09-18",
+      "precio_eur": 123.19,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html",
+      "nota": "Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
       "precio_eur": 123.19,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html",
@@ -508,6 +543,13 @@
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html",
       "nota": "Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
+      "precio_eur": 111.75,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html",
+      "nota": "Sin cambios vs ultimo registro"
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -585,6 +627,13 @@
     },
     {
       "fecha": "2026-09-18",
+      "precio_eur": 137.17,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html",
+      "nota": "Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
       "precio_eur": 137.17,
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html",
@@ -675,6 +724,13 @@
       "tienda": "idealo.es (comparador, oferta Corsair Vengeance LPX)",
       "url": "https://www.idealo.es/precios/6844737/corsair-vengeance-lpx-32gb-kit-ddr4-3200-cl16-cmk32gx4m2e3200c16.html",
       "nota": "Corsair Vengeance LPX 32GB (2x16GB) CL16, modelo CMK32GX4M2E3200C16. Sin cambios vs ultimo registro. Dominio amazon.es bloqueado por el proxy de salida de este entorno, no se pudo verificar oferta puntual mencionada en dias previos"
+    },
+    {
+      "fecha": "2026-09-19",
+      "precio_eur": 290.99,
+      "tienda": "idealo.es (comparador, oferta Corsair Vengeance LPX)",
+      "url": "https://www.idealo.es/precios/6844737/corsair-vengeance-lpx-32gb-kit-ddr4-3200-cl16-cmk32gx4m2e3200c16.html",
+      "nota": "Corsair Vengeance LPX 32GB (2x16GB) CL16, modelo CMK32GX4M2E3200C16. Sin cambios vs ultimo registro. Amazon.es sigue mostrando en busquedas 199,99 EUR para el mismo modelo, pero el dominio amazon.es esta bloqueado por el proxy de salida de este entorno y no se pudo verificar disponibilidad/vigencia real de esa oferta"
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -757,6 +813,13 @@
     },
     {
       "fecha": "2026-09-18",
+      "precio_eur": 549.99,
+      "tienda": "idealo.es (comparador, oferta Kingston FURY Beast KF432C16BBK2/64)",
+      "url": "https://www.idealo.es/precios/201493489/kingston-fury-beast-64gb-dual-kit-ddr4-3200-cl16-kf432c16bbk2-64.html",
+      "nota": "Kingston FURY Beast 64GB (2x32GB) CL16, ref. KF432C16BBK2/64. Sin cambios vs ultimo registro"
+    },
+    {
+      "fecha": "2026-09-19",
       "precio_eur": 549.99,
       "tienda": "idealo.es (comparador, oferta Kingston FURY Beast KF432C16BBK2/64)",
       "url": "https://www.idealo.es/precios/201493489/kingston-fury-beast-64gb-dual-kit-ddr4-3200-cl16-kf432c16bbk2-64.html",
