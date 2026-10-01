@@ -167,6 +167,13 @@
       "tienda": "idealo.es (comparador, oferta ASRock Challenger 8GB OC)",
       "url": "https://www.idealo.es/precios/206592424/asrock-radeon-rx-9060-xt.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 321.23,
+      "tienda": "idealo.es (comparador, oferta ASRock Challenger 8GB OC)",
+      "url": "https://www.idealo.es/precios/206592424/asrock-radeon-rx-9060-xt.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo."
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -337,6 +344,13 @@
       "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
       "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 358.9,
+      "tienda": "idealo.es (comparador, oferta Gigabyte 8GB)",
+      "url": "https://www.idealo.es/precios/206264531/gigabyte-geforce-rtx-5060-ti.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado (no verificado en tienda objetivo, via WebSearch): varias fuentes sugieren precios de mercado muy por encima del ultimo registrado (modelos 8GB entre ~530-760 EUR y 16GB desde ~539-600+ EUR), posiblemente por escasez de memoria GDDR7; no se pudo confirmar el precio exacto de la oferta trackeada."
     }
   ],
   "NVIDIA RTX 5070": [
@@ -495,6 +509,13 @@
       "tienda": "idealo.es (comparador, oferta Zotac Solid OC)",
       "url": "https://www.idealo.es/precios/206029291/zotac-geforce-rtx-5070-solid-oc.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 524.77,
+      "tienda": "idealo.es (comparador, oferta Zotac Solid OC)",
+      "url": "https://www.idealo.es/precios/206029291/zotac-geforce-rtx-5070-solid-oc.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado (no verificado en tienda objetivo, via WebSearch): fuentes de prensa conflictivas - unas la situan en precio minimo historico, otras reportan una subida de hasta +33% (~787 EUR) por la crisis de memoria GDDR7; no se pudo confirmar el precio exacto de la oferta trackeada hoy."
     }
   ],
   "AMD Radeon RX 9070": [
@@ -654,6 +675,13 @@
       "tienda": "idealo.es (comparador, oferta ASUS Prime OC EVO)",
       "url": "https://www.idealo.es/precios/207326964/asus-radeon-rx-9070-prime-oc-evo.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 578.99,
+      "tienda": "idealo.es (comparador, oferta ASUS Prime OC EVO)",
+      "url": "https://www.idealo.es/precios/207326964/asus-radeon-rx-9070-prime-oc-evo.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado (no verificado en tienda objetivo, via WebSearch): prensa indica precios de mercado desde ~629-719,95 EUR segun tienda/modelo, en linea o algo por encima del ultimo registro; no se pudo confirmar el precio exacto de la oferta trackeada hoy."
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -812,6 +840,13 @@
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 123.19,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/205108340/amd-ryzen-5-5600xt.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado (no verificado en tienda objetivo, via WebSearch): PCComponentes aparece citado en torno a 152,90 EUR, por encima del ultimo registro (123,19 EUR); no se pudo confirmar el precio exacto de la oferta trackeada hoy."
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -970,6 +1005,13 @@
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 111.75,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/201899387/amd-ryzen-5-5600.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado (no verificado en tienda objetivo, via WebSearch): fuentes citan precios desde ~130 EUR, por encima del ultimo registro (111,75 EUR); no se pudo confirmar el precio exacto de la oferta trackeada hoy."
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -1128,6 +1170,13 @@
       "tienda": "idealo.es (comparador)",
       "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 137.17,
+      "tienda": "idealo.es (comparador)",
+      "url": "https://www.idealo.es/precios/200733045/amd-ryzen-5-5600x.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado (no verificado en tienda objetivo, via WebSearch): PCComponentes aparece citado en torno a 181,01 EUR, por encima del ultimo registro (137,17 EUR); no se pudo confirmar el precio exacto de la oferta trackeada hoy."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -1291,6 +1340,13 @@
       "tienda": "idealo.es (comparador, oferta Corsair Vengeance LPX)",
       "url": "https://www.idealo.es/precios/6844737/corsair-vengeance-lpx-32gb-kit-ddr4-3200-cl16-cmk32gx4m2e3200c16.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 290.99,
+      "tienda": "idealo.es (comparador, oferta Corsair Vengeance LPX)",
+      "url": "https://www.idealo.es/precios/6844737/corsair-vengeance-lpx-32gb-kit-ddr4-3200-cl16-cmk32gx4m2e3200c16.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -1454,6 +1510,13 @@
       "tienda": "idealo.es (comparador, oferta Kingston FURY Beast KF432C16BBK2/64)",
       "url": "https://www.idealo.es/precios/201493489/kingston-fury-beast-64gb-dual-kit-ddr4-3200-cl16-kf432c16bbk2-64.html",
       "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Quinto dia consecutivo con este problema de red (26, 27, 28, 29 y 30 de septiembre). WebSearch si funciono y devolvio resultados genericos/de categoria (no del SKU y tienda exactos trackeados, y en varios casos coincidiendo con precios ya vistos en dias anteriores y marcados como posiblemente cacheados/no vigentes), por lo que no se usan para actualizar el precio. Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-01",
+      "precio_eur": 549.99,
+      "tienda": "idealo.es (comparador, oferta Kingston FURY Beast KF432C16BBK2/64)",
+      "url": "https://www.idealo.es/precios/201493489/kingston-fury-beast-64gb-dual-kit-ddr4-3200-cl16-kf432c16bbk2-64.html",
+      "nota": "No se pudo verificar precio actual hoy: acceso de red bloqueado por el proxy de salida de este entorno (EGRESS_BLOCKED) para todos los dominios probados via WebFetch (idealo.es, pccomponentes.com, amazon.es, en.wikipedia.org). Sexto dia consecutivo con este problema de red (26, 27, 28, 29, 30 de septiembre y 1 de octubre). WebSearch si funciono (idealo.es bloquea el rastreador de busqueda) y devolvio resultados genericos, de fechas/modelos no verificables para el SKU y tienda exactos trackeados, por lo que no se usan para actualizar el precio oficial. Se mantiene ultimo precio conocido sin evidencia de cambio verificada en la tienda objetivo. Aviso de mercado IMPORTANTE (no verificado en tienda objetivo, via WebSearch): PCComponentes aparece citado en torno a 777,15 EUR para el mismo Kingston FURY Beast 64GB (2x32GB) CL16, muy por encima del ultimo registro (549,99 EUR, +41% aprox.), coincidiendo con multiples informes de prensa sobre una crisis de precios de memoria DDR4/DDR5 en 2026. No se pudo confirmar el precio exacto via WebFetch por el bloqueo de red; se recomienda verificar manualmente antes de cualquier decision de compra."
     }
   ]
 }
