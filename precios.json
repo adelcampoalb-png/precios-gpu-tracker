@@ -202,6 +202,41 @@
       "tienda": "PcComponentes (XFX SWIFT OC 8GB)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-xfx-swift-amd-radeon-rx-9060-xt-oc-8gb-gddr6-fsr-4",
       "nota": "Variante 8GB VRAM. BAJADA vs 389,90 EUR del 2026-10-04 (-9,0%). OFERTA DESTACADA: precio minimo historico confirmado (profesionalreview.com). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 423.98,
+      "tienda": "PcComponentes (XFX SWIFT OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-xfx-swift-amd-radeon-rx-9060-xt-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. SUBIDA vs 354,90 EUR del 2026-10-05 (+19,5%). Otras ofertas marketplace en la misma ficha desde 361,74 EUR (vendedor tercero, no usado por menor fiabilidad de garantia). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 394.99,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. BAJADA vs 423,98 EUR del 2026-10-06 (-6,8%). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 394.99,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR del 2026-10-07 (no se encontro evidencia verificable de variacion hoy; WebSearch no devolvio la ficha exacta de PcComponentes, solo tiendas de otros paises). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct)). Se mantiene ultimo precio conocido."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 394.99,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR del 2026-10-08 (no se encontro evidencia fiable de variacion hoy; agregadores como gpuprix muestran cifras dispares de 344-383 EUR sin fecha verificable, no usadas). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 394.99,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR del 2026-10-09 (no se encontro evidencia fiable de variacion hoy; agregadores gpuprix/gpupricehistory solo devolvieron datos de julio/agosto 2026, no verificables para hoy). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -407,6 +442,41 @@
       "tienda": "PcComponentes (Palit White OC 8GB GDDR7)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-palit-geforce-rtx-5060-ti-white-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
       "nota": "Variante 8GB VRAM. SUBIDA vs 489,07 EUR del 2026-10-04 (+12,5%). Sigue la tendencia alcista por escasez de memoria GDDR7. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina). Nota: una busqueda inicial citaba 329,90 EUR como 'minimo historico' pero se confirmo que ese precio corresponde a julio 2026, no al precio actual."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 549.99,
+      "tienda": "PcComponentes (Palit White OC 8GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-palit-geforce-rtx-5060-ti-white-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 549,99 EUR del 2026-10-05. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 409.9,
+      "tienda": "PcComponentes (ASUS Dual OC Edition 8GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjetas-graficas/asus",
+      "nota": "Variante 8GB VRAM. BAJADA vs 549,99 EUR del 2026-10-06 (-25,5%). OFERTA DESTACADA: fuerte caida tras los precios al alza de dias anteriores por escasez de GDDR7; PVP de referencia 509 EUR. URL de producto exacta no confirmable hoy por bloqueo de red (se indica categoria de marca). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 409.9,
+      "tienda": "PcComponentes (ASUS Dual OC Edition 8GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjetas-graficas/asus",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 409,90 EUR del 2026-10-07 (comparadores de precio muestran cifras dispares de 413,68 y 485,16 EUR sin fecha verificable, no usadas por falta de fiabilidad). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct)). Se mantiene ultimo precio conocido."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 391.99,
+      "tienda": "PcComponentes (ZOTAC GAMING Twin Edge 8GB GDDR7)",
+      "url": "https://www.geeknetic.es/comparador-precios/zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4/comprar/",
+      "nota": "Variante 8GB VRAM. BAJADA vs 409,90 EUR del 2026-10-08 (-4,4%). Confirmado por comparador Geeknetic: PcComponentes es la tienda mas barata de 6 comparadas (391,99 EUR, envio gratis), por delante de Caseking (412,10 EUR). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 391.99,
+      "tienda": "PcComponentes (ZOTAC GAMING Twin Edge 8GB GDDR7)",
+      "url": "https://www.geeknetic.es/comparador-precios/zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4/comprar/",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 391,99 EUR del 2026-10-09 (agregador gpupricehistory solo devolvio datos de julio 2026 con precios distintos de otros modelos (ASUS Dual 359 EUR, Gigabyte EAGLE OC 363 EUR), no verificables como vigentes hoy). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "NVIDIA RTX 5070": [
@@ -600,6 +670,41 @@
       "tienda": "PcComponentes (Inno3D TWIN X2 12GB, rebajada desde 679 EUR)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-inno3d-geforce-rtx-5070-twin-x2-12gb-gddr7-reflex-2-rtx-ai-dlss4",
       "nota": "BAJADA vs 685,88 EUR del 2026-10-04 (-12,7%). Precio rebajado desde PVP de 679 EUR en la propia ficha. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 598.9,
+      "tienda": "PcComponentes (Inno3D TWIN X2 12GB, rebajada desde 679 EUR)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-inno3d-geforce-rtx-5070-twin-x2-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Sin cambios vs 598,90 EUR del 2026-10-05. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 659.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "SUBIDA vs 598,90 EUR del 2026-10-06 (+10,0%). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 659.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Sin cambios vs 659,00 EUR del 2026-10-06/07, confirmado por comparador Geeknetic (misma cifra exacta en PC Componentes). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct)). Precio confirmado via WebSearch (snippet de comparador de precios)."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 659.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Sin cambios vs 659,00 EUR del 2026-10-06/07/08, confirmado de nuevo por comparador Geeknetic (misma cifra exacta en PcComponentes, 4a mas barata de 9 tiendas; Informaticabarata.com la mas barata a 595,87 EUR, no verificada como tienda fiable). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 659.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Sin cambios vs 659,00 EUR del 2026-10-09 (agregador gpupricehistory devolvio cifras de julio 2026 de 607-649 EUR para otros modelos, no verificables como precio vigente hoy). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "AMD Radeon RX 9070": [
@@ -794,6 +899,41 @@
       "tienda": "PcComponentes (ASUS PRIME OC 16GB, oferta)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-amd-radeon-rx-9070-oc-16gb-gddr6-fsr-4",
       "nota": "Variante 16GB VRAM. Sin cambios vs 599,90 EUR del 2026-10-04. Sigue el descuento desde PVP de 839,99 EUR (-28,6%). Tambien se detecto Sapphire PULSE 16GB a 629,95 EUR con descuento puntual '-34% Dias Naranjas', pero resulta mas cara que la oferta ASUS trackeada, por lo que no sustituye al precio principal. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 719.18,
+      "tienda": "PcComponentes (ASUS PRIME OC 16GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-amd-radeon-rx-9070-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. SUBIDA vs 599,90 EUR del 2026-10-05 (+19,9%): parece haber finalizado la oferta puntual del PVP de 839,99 EUR, el precio vuelve a una banda mas alta (~719-729 EUR). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 729.0,
+      "tienda": "PcComponentes (ASUS PRIME OC 16GB, rebajada desde 839,99 EUR)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-amd-radeon-rx-9070-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. SUBIDA leve vs 719,18 EUR del 2026-10-06 (+1,4%), practicamente estable. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 729.0,
+      "tienda": "PcComponentes (ASUS PRIME OC 16GB, rebajada desde 839,99 EUR)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-amd-radeon-rx-9070-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. Sin cambios vs 729,00 EUR del 2026-10-07, confirmado por WebSearch con snippet directo de la ficha de PcComponentes (729,00 EUR tachado desde PVPR 839,99 EUR, ref. 90YV0LI1-M0NA00). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct))."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 669.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. BAJADA vs 729,00 EUR del 2026-10-08 (-8,2%). OFERTA DESTACADA: precio confirmado tanto en la ficha de producto como en la pagina de categoria de PcComponentes (669 EUR), mas barato que la ASUS PRIME OC 16GB usada el dia anterior. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 669.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. Sin cambios vs 669,00 EUR del 2026-10-09 (agregadores gpuprix/gpupricehistory devolvieron cifras dispares de julio/agosto 2026, de 575 a 655 EUR, no verificables como precio vigente hoy). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -987,6 +1127,41 @@
       "tienda": "PcComponentes",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-3-7-4-7ghz",
       "nota": "Sin cambios vs 152,90 EUR del 2026-10-04. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 148.79,
+      "tienda": "Amazon.es",
+      "url": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600XT",
+      "nota": "BAJADA vs 152,90 EUR del 2026-10-05 (-2,7%). PcComponentes similar a 148,99 EUR. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 148.79,
+      "tienda": "Amazon.es",
+      "url": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600XT",
+      "nota": "Sin cambios vs 148,79 EUR del 2026-10-06 (no se encontro un precio mas reciente verificable hoy). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 148.79,
+      "tienda": "Amazon.es",
+      "url": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600XT",
+      "nota": "Sin cambios vs 148,79 EUR del 2026-10-07 (no se encontro precio en amazon.es verificable hoy; unicas referencias en euros son de tiendas de otros paises de la UE, ej. Lituania 124,41 EUR, no comparables/fiables para Espana). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct))."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 152.9,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-3-7-4-7ghz",
+      "nota": "SUBIDA leve vs 148,79 EUR del 2026-10-08 (+2,8%; la referencia anterior era de Amazon.es y no estaba verificada, mientras que hoy se confirma precio directo de PcComponentes en dos fichas coincidentes). Powerplanet ofrece 143,95 EUR (tienda no evaluada en dias anteriores, no usada como referencia principal). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 152.9,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-3-7-4-7ghz",
+      "nota": "Sin cambios vs 152,90 EUR del 2026-10-09 (WebSearch no devolvio precio alguno de PcComponentes, Amazon.es o idealo.es para este SKU hoy; solo tiendas de otros paises europeos y precio de lanzamiento). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -1180,6 +1355,41 @@
       "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
       "url": "https://www.pccomponentes.com/amd-ryzen-5-5600-35ghz-44ghz-oem",
       "nota": "Sin cambios vs 116,40 EUR del 2026-10-04. Version caja (box) estandar mas cara, ~139,90 EUR. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 116.4,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/amd-ryzen-5-5600-35ghz-44ghz-oem",
+      "nota": "Sin cambios vs 116,40 EUR del 2026-10-05. Version caja (box) estandar mas cara, ~139,90 EUR. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "BAJADA leve vs 116,40 EUR del 2026-10-06 (-0,6%), practicamente estable. Version caja (box) estandar mas cara, ~139,90 EUR. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios vs 115,75 EUR del 2026-10-07, confirmado por WebSearch con snippet directo de la ficha de PcComponentes (Articulo: 10661485). Version caja (box) estandar mas cara, ~139,90 EUR. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct))."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios vs 115,75 EUR del 2026-10-08, confirmado de nuevo via WebSearch (snippet directo de la ficha de PcComponentes). Version caja (box) estandar mas cara, ~139,90 EUR. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios vs 115,75 EUR del 2026-10-09 (WebSearch solo devolvio la URL de PcComponentes sin precio visible en el snippet, y datos antiguos sin fecha de otras fuentes). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -1373,6 +1583,41 @@
       "tienda": "PcComponentes",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
       "nota": "Sin cambios vs 187,07 EUR del 2026-10-04. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 187.07,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios vs 187,07 EUR del 2026-10-05. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 184.55,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "BAJADA leve vs 187,07 EUR del 2026-10-06 (-1,3%). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "BAJADA vs 184,55 EUR del 2026-10-07 (-14,4%). OFERTA DESTACADA: precio vendido directamente por PcComponentes (Cod. Articulo 328475) con descuento del -57% sobre PVPR 376 EUR, mas barato que la oferta del marketplace OCASIONIA (184,55 EUR) usada el dia anterior en la misma ficha. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct)). Precio obtenido via WebSearch (snippet indexado, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios vs 158,06 EUR del 2026-10-08. Confirmado como la oferta mas barata de 6 tiendas comparadas (Coolmod 161,95 EUR, NeoByte 160,91 EUR+envio). La oferta marketplace OCASIONIA (184,55 EUR) en la misma ficha sigue siendo mas cara y no se usa. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios vs 158,06 EUR del 2026-10-09 (WebSearch solo devolvio datos de 2020-2022, no vigentes, y la ficha de PcComponentes sin precio en el snippet). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct)). Se mantiene ultimo precio conocido."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -1571,6 +1816,41 @@
       "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
       "url": "https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16",
       "nota": "Sin cambios vs 279,95 EUR del 2026-10-04. Contexto general de crisis de DRAM sigue siendo alcista (ver kit 2x32GB). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 279.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16",
+      "nota": "Sin cambios vs 279,95 EUR del 2026-10-05. Contexto general de crisis de DRAM sigue siendo alcista (ver kit 2x32GB). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 299.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16",
+      "nota": "SUBIDA vs 279,95 EUR del 2026-10-06 (+7,1%). Contexto general de crisis de DRAM sigue siendo alcista (ver kit 2x32GB). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 299.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16",
+      "nota": "Sin cambios vs 299,95 EUR del 2026-10-07, confirmado por comparador Geeknetic (misma cifra exacta, la mas baja de 6 ofertas comparadas). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct))."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 299.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16",
+      "nota": "Sin cambios vs 299,95 EUR del 2026-10-08, confirmado de nuevo por comparador Geeknetic (misma cifra exacta, la mas baja frente a Caseking 309,90 EUR y Coolmod 317,95-330,95 EUR). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 299.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16",
+      "nota": "Sin cambios vs 299,95 EUR del 2026-10-09. Comparador Geeknetic devolvio dos instantaneas distintas en cache (299,95 EUR y 307,99 EUR, ambas con PcComponentes como mas barata), sin fecha clara que confirme un cambio real hoy, por lo que se mantiene el ultimo precio verificado. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct))."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -1769,6 +2049,41 @@
       "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
       "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
       "nota": "Sin cambios vs 777,15 EUR del 2026-10-04, se mantiene el precio alto de la crisis de DRAM 2026 (desvio de capacidad de fabricacion a IA/datacenters). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-06",
+      "precio_eur": 777.15,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios vs 777,15 EUR del 2026-10-05, se mantiene el precio alto de la crisis de DRAM 2026 (desvio de capacidad de fabricacion a IA/datacenters). No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, undecimo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-07",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "BAJADA vs 777,15 EUR del 2026-10-06 (-24,1%). OFERTA DESTACADA: misma referencia exacta trackeada dias anteriores (PVPR 654,84 EUR), fuerte caida tras varios dias de precio elevado por la crisis de DRAM 2026. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimosegundo dia consecutivo). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-08",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios vs 589,95 EUR del 2026-10-07, confirmado por WebSearch (PVPR 654,84 EUR, misma referencia exacta). Contexto general de crisis de DRAM sigue activo. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es (EGRESS_BLOCKED, decimotercer dia consecutivo (26-30 sep, 1-7 oct))."
+    },
+    {
+      "fecha": "2026-10-09",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios vs 589,95 EUR del 2026-10-08, confirmado via WebSearch (PVPR 654,84 EUR, misma referencia exacta KF432C16BBK2/64). Contexto general de crisis de DRAM sigue activo. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimocuarto dia consecutivo (26-30 sep, 1-8 oct)). Precio obtenido via WebSearch (snippets indexados, no verificado por fetch directo de la pagina)."
+    },
+    {
+      "fecha": "2026-10-10",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios vs 589,95 EUR del 2026-10-09. WebSearch no encontro el SKU exacto Kingston/Corsair hoy, solo kits Crucial de otro fabricante con precios dispares (430-740 EUR, no comparables) y una instantanea de Geeknetic con 589,95 EUR coincidente con el ultimo precio registrado. No se pudo usar WebFetch en pccomponentes.com/amazon.es/idealo.es/geeknetic.es (EGRESS_BLOCKED, decimoquinto dia consecutivo (26-30 sep, 1-9 oct))."
     }
   ]
 }
