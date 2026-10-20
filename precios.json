@@ -300,6 +300,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
       "nota": "Variante 8GB VRAM. Sin cambios vs 380,03 EUR del 2026-10-18 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU/tienda exacto trackeado; WebSearch solo devolvio precio de lanzamiento AMD y datos de otras regiones/tiendas, p.ej. ASUS PRIME 8GB a 374,90 EUR en una pagina sin fecha confirmada). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-19 oct)."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 380.03,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 380,03 EUR del 2026-10-19 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU/tienda exacto trackeado; WebSearch solo devolvio precios de lanzamiento AMD y datos de GPUPrix Europa sin fecha de hoy, p.ej. 439 EUR variante 16GB). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -603,6 +610,13 @@
       "tienda": "PcComponentes (Zotac Twin Edge 8GB)",
       "url": "https://www.pccomponentes.com/tarjetas-graficas/amd-radeon-rx-7700-xt/amd-radeon-rx-9060-xt/geforce-rtx-5060-ti",
       "nota": "Variante 8GB VRAM. BAJADA vs 391,99 EUR del 2026-10-18 (-0,5%). Confirmado via WebSearch en pagina de categoria de pccomponentes.com: Zotac Twin Edge 8GB a 389,90 EUR (PVPR 444,14 EUR). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 389.9,
+      "tienda": "PcComponentes (Zotac Twin Edge 8GB)",
+      "url": "https://www.pccomponentes.com/tarjetas-graficas/amd-radeon-rx-7700-xt/amd-radeon-rx-9060-xt/geforce-rtx-5060-ti",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 389,90 EUR del 2026-10-19 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU exacto trackeado; WebSearch devolvio precios de RTX 5060 base -no Ti- y una oferta expirada de mayo de Gigabyte WINDFORCE MAX OC 8GB a 359,90 EUR). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "NVIDIA RTX 5070": [
@@ -894,6 +908,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
       "url": "https://www.geeknetic.es/comparador-precios/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7/comprar/",
       "nota": "Variante 12GB VRAM. Sin cambios vs 659,00 EUR del 2026-10-18 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU exacto trackeado; WebSearch devolvio precios dispares sin fecha para otros modelos: Inno3D Twin X2 12GB 570,90 EUR, MSI Ventus 2X OC 654,90 EUR, ASUS Prime entre 749-1030 EUR segun snapshot). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 659.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.geeknetic.es/comparador-precios/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7/comprar/",
+      "nota": "Variante 12GB VRAM. Sin cambios vs 659,00 EUR del 2026-10-19 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU exacto trackeado; WebSearch repitio cifras ya vistas sin fecha de octubre: Inno3D Twin X2 12GB 570,90 EUR, MSI Ventus 2X OC 654,90 EUR). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "AMD Radeon RX 9070": [
@@ -1186,6 +1207,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
       "nota": "Variante 16GB VRAM. Sin cambios vs 689,00 EUR del 2026-10-18 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU exacto trackeado; WebSearch mostro Sapphire PULSE 16GB a 689,90 EUR -muy similar-, ASUS PRIME 16GB OC a 729 EUR y ASRock Challenger 16GB a 723,47 EUR en snapshots sin fecha confirmada de pccomponentes.com). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 689.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. Sin cambios vs 689,00 EUR del 2026-10-19 (no se encontro evidencia fiable y fechada de variacion hoy para el SKU exacto trackeado; WebSearch solo devolvio un dato expirado de foro -Sapphire Pure 740 EUR- y rango sin fecha del comparador Geeknetic 763-1.383 EUR). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -1477,6 +1505,13 @@
       "tienda": "PcComponentes",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
       "nota": "Sin cambios vs 152,90 EUR del 2026-10-18. Confirmado via WebSearch: ficha de PcComponentes vuelve a mostrar 152,90 EUR (valoracion 4,7/5, 103 opiniones). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 152.9,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
+      "nota": "Sin cambios vs 152,90 EUR del 2026-10-19. Confirmado via WebSearch: la ficha de PcComponentes vuelve a aparecer a 152,90 EUR. No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -1768,6 +1803,13 @@
       "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
       "nota": "Sin cambios vs 115,75 EUR del 2026-10-18. Confirmado via WebSearch: ficha OEM de PcComponentes vuelve a mostrar 115,75 EUR. Version Box en 139,90-149,15 EUR segun snapshot (no usada, distinta variante). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios vs 115,75 EUR del 2026-10-19. Confirmado via WebSearch: ficha OEM de PcComponentes vuelve a mostrar 115,75 EUR (articulo 10661485). Version Box en 139,90-149,15 EUR segun snapshot (no usada, distinta variante). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -2059,6 +2101,13 @@
       "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
       "nota": "Sin cambios vs 158,06 EUR del 2026-10-18. Confirmado via WebSearch y comparador Geeknetic: PcComponentes sigue siendo la oferta mas barata de 6 tiendas a 158,06 EUR, envio gratis. No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios vs 158,06 EUR del 2026-10-19. Confirmado via WebSearch: listado de procesadores de PcComponentes vuelve a mostrar 158,06 EUR (PVPR 376 EUR). Otra ficha sin fecha mostraba 184,55 EUR via marketplace de terceros (no usada). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -2355,6 +2404,13 @@
       "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
       "url": "https://www.geeknetic.es/comparador-precios/corsair-kit-32gb-2-x-16gb-ddr4-3200mhz-vengeance-lpx-black-cl16/comprar/",
       "nota": "Sin cambios vs 299,95 EUR del 2026-10-18. Confirmado via comparador Geeknetic: PcComponentes sigue siendo la oferta mas barata a 299,95 EUR, por delante de Caseking (309,90 EUR) y Coolmod (317,95 EUR). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 299.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.geeknetic.es/comparador-precios/corsair-kit-32gb-2-x-16gb-ddr4-3200mhz-vengeance-lpx-black-cl16/comprar/",
+      "nota": "Sin cambios vs 299,95 EUR del 2026-10-19. Confirmado via comparador Geeknetic: PcComponentes sigue siendo la oferta mas barata a 299,95 EUR, por delante de Caseking (309,90 EUR) y Coolmod (317,95 EUR). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -2651,6 +2707,13 @@
       "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
       "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
       "nota": "Sin cambios vs 589,95 EUR del 2026-10-18. Confirmado via WebSearch y comparador Geeknetic: PcComponentes sigue a 589,95 EUR (PVPR 654,84 EUR), la mas barata de 6 tiendas comparadas (resto entre 1.036-1.234 EUR). No se pudo usar WebFetch directo en pccomponentes.com (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimoquinto dia consecutivo con bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-20",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios vs 589,95 EUR del 2026-10-19. Confirmado via WebSearch y comparador Geeknetic: PcComponentes sigue a 589,95 EUR (PVPR 654,84 EUR), la mas barata frente a Beep (1.036,76 EUR) y Alternate (1.234,00 EUR). No se pudo usar WebFetch directo en pccomponentes.com/geeknetic.es (EGRESS_BLOCKED/DNS no resuelve: getaddrinfo ENOTFOUND). Decimosexto dia consecutivo con bloqueo de red para estos dominios (26-30 sep, 1-20 oct)."
     }
   ]
 }
