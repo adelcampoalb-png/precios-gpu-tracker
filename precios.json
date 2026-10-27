@@ -349,6 +349,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
       "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR previo. WebSearch de hoy solo devolvio snapshots sin fecha fiable de otros modelos 8GB (Powercolor Reaper 599,91; otro Gigabyte Gaming OC 579,99/551,00; XFX Mercury OC 471,90; Neobyte 477,90), sin coincidir con certeza con el modelo Gigabyte Gaming OC 8GB seguido en PcComponentes. WebFetch directo a pccomponentes.com y geeknetic.es sigue bloqueado (getaddrinfo ENOTFOUND), confirmado de nuevo hoy. Vigesimo segundo dia consecutivo de bloqueo de red (26 sep - 26 oct). Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 394.99,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR previo. WebSearch de hoy solo devolvio un snapshot de comparador Geeknetic a 380,03 EUR con P/N 9VR9068XGO-00-G10, que no coincide con el modelo Gigabyte GAMING OC 8GB (GV-R9060XTGAMING OC-8GD) seguido en PcComponentes, por lo que no se usa. WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Se mantiene ultimo precio conocido sin evidencia de cambio verificada."
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -701,6 +708,13 @@
       "tienda": "PcComponentes (Zotac Twin Edge 8GB, no-OC)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4",
       "nota": "Variante 8GB VRAM. Sin cambios vs 391,99 EUR previo. WebSearch de hoy devolvio otros modelos 8GB sin fecha fiable (Gigabyte GAMING OC 609,01; MSI Ventus 2X OC Plus 609,99; ASUS Dual 634; INNO3D Twin X2 599; Palit Dual 575,95; oferta Chollometro Palit Dual 369 y PNY reacondicionada 299), ninguno coincide con el modelo Zotac Twin Edge seguido. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 391.99,
+      "tienda": "PcComponentes (Zotac Twin Edge 8GB, no-OC)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 391,99 EUR previo. WebSearch de hoy confirma de nuevo 391,99 EUR en PcComponentes para el modelo exacto Zotac Twin Edge 8GB no-OC (P/N ZT-B50610E-10M), el precio mas bajo entre las 6 tiendas de un comparador. WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Precio confirmado sin cambios."
     }
   ],
   "NVIDIA RTX 5070": [
@@ -1041,6 +1055,13 @@
       "tienda": "PcComponentes / Amazon.es (oferta flash del 2026-10-23, Gigabyte GAMING OC 12GB GDDR7)",
       "url": "https://www.chollometro.com/ofertas/gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4-1931475",
       "nota": "Variante 12GB VRAM. Se mantiene el precio de la oferta flash del 23/10 (579 EUR) por quinto dia consecutivo al no encontrar confirmacion fiable de un precio vigente para el mismo modelo Gigabyte GAMING OC. WebSearch de hoy muestra otros modelos sin fecha fiable (Palit Infinity 3 689; Gigabyte WINDFORCE OC SFF 685,88; MSI Ventus 2X OC 1092,39; oferta Chollometro PNY Triple Fan 549,90 y Amazon ~579, sin fecha). Es muy probable que el precio real actual del modelo seguido sea mas alto (~607-692 EUR), como se viene advirtiendo desde el 24/10. Se recomienda verificar disponibilidad y precio exacto antes de comprar. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 579.0,
+      "tienda": "PcComponentes / Amazon.es (oferta flash del 2026-10-23, Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.chollometro.com/ofertas/gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4-1931475",
+      "nota": "Variante 12GB VRAM. Se mantiene el precio de la oferta flash del 23/10 (579 EUR) por sexto dia consecutivo al no encontrar confirmacion fiable y fechada de un precio vigente para el mismo modelo Gigabyte GAMING OC. WebSearch de hoy muestra gpupricehistory.com situando el modelo GAMING OC en 607 (sin moneda/fecha confirmada, marcado 'buena oferta'), e Informaticabarata/Coolmod/NeoByte en rango 596-650 EUR, consistente con la sospecha ya señalada desde el 24/10 de que el precio real actual es mas alto (~596-650 EUR) que la oferta flash registrada. Se recomienda verificar disponibilidad y precio exacto antes de comprar. WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct)."
     }
   ],
   "AMD Radeon RX 9070": [
@@ -1382,6 +1403,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
       "nota": "Variante 16GB VRAM. SUBIDA de precio detectada: 1.079,99 EUR vs 669,00 EUR del ultimo registro (23-25/10), +61,4%. Dato obtenido via WebSearch de la pagina de categoria de PcComponentes, que mostraba fecha de entrega 'lunes 26 de octubre' (hoy), por lo que se considera el snapshot mas reciente/fiable disponible esta semana para este modelo exacto; aun asi, dada la imposibilidad de WebFetch directo, se recomienda verificar el precio exacto antes de comprar. Otros modelos en la misma pagina: Sapphire PULSE 912,95; ASUS Prime OC 1.009,99; Sapphire PURE (Compumarket) 1.069,45. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 669.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. BAJADA vs 1.079,99 EUR del 2026-10-26 (-38,1%), pero se trata muy probablemente de una correccion de un dato anomalo de ayer: el registro de ayer se tomo de un snapshot de pagina de categoria con fecha de entrega 'lunes 26 octubre' que resulto no ser representativo. Hoy WebSearch muestra de forma consistente en multiples fuentes (ficha de producto de PcComponentes 669,00 EUR, listado de categoria 679 EUR, comparador Geeknetic 659-689 EUR) un precio en linea con el nivel previo a la subida del 26/10 (669,00 EUR, igual que 23-25/10). Se registra 669,00 EUR como el dato mas consistente entre fuentes; se recomienda verificar el precio exacto antes de comprar dada la imposibilidad de WebFetch directo. WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct)."
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -1722,6 +1750,13 @@
       "tienda": "PcComponentes",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
       "nota": "Sin cambios vs 152,90 EUR previo (22-25/10). WebSearch de hoy muestra un snapshot distinto de la ficha principal a 166,25 EUR (y otro antiguo de opiniones a 148,99/149,89 EUR por una oferta pasada), sin indicio de fecha reciente fiable que confirme un cambio real, por lo que no se actualiza el precio. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 152.9,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
+      "nota": "Sin cambios vs 152,90 EUR previo. WebSearch de hoy confirma de nuevo 152,90 EUR en PcComponentes (articulo 10861342) en dos snapshots distintos. WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Precio confirmado sin cambios."
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -2062,6 +2097,13 @@
       "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
       "nota": "Sin cambios vs 115,75 EUR previo (22-25/10). WebSearch de hoy encontro un snapshot de la version OEM (PN 100-000000927) a 164,33 EUR, pero la propia pagina indicaba fecha de entrega prevista para el 20/10 y el propio buscador señala que el precio 'podria haber cambiado desde entonces', por lo que el dato se considera desactualizado y no se usa. PCBOX ofrece una variante a 123,75 EUR sin confirmar si es OEM. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios vs 115,75 EUR previo. WebSearch de hoy confirma de nuevo 115,75 EUR en PcComponentes para la version OEM (articulo 10661485). WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Precio confirmado sin cambios."
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -2402,6 +2444,13 @@
       "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
       "nota": "Sin cambios vs 158,06 EUR previo (22-25/10) (no se pudo confirmar con certeza; WebSearch de hoy devuelve de nuevo cifras dispares para la misma ficha Box -173,22 EUR en un snapshot reciente segun numero de valoraciones, otro cache de ~700 dias sin valor-, sin fecha fiable que confirme un cambio). Variantes tray/bulk sin cooler aparecen entre 175,94 y 350,85 EUR, no usadas. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios vs 158,06 EUR previo. WebSearch de hoy confirma de nuevo 158,06 EUR en el listado de categoria de PcComponentes, coincidiendo con el comparador Geeknetic (158,06 EUR en PcComponentes, por delante de Coolmod 161,95 EUR y PCBox 169,78 EUR). WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Precio confirmado sin cambios."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -2747,6 +2796,13 @@
       "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
       "url": "https://www.geeknetic.es/comparador-precios/corsair-kit-32gb-2-x-16gb-ddr4-3200mhz-vengeance-lpx-black-cl16/comprar/",
       "nota": "Sin cambios vs 299,95 EUR previo (22-25/10). WebSearch de hoy solo devolvio fichas de PcComponentes muy desactualizadas (cache de 1198, 1369 y hasta 3518 dias, con precios de 244,95 a 288,00 EUR, no representativos), ademas de Coolmod a 295,95 EUR (tienda no seguida) y el precio oficial Corsair.es a 382,99 EUR. Ninguno sirve como confirmacion fiable de cambio en PcComponentes hoy. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 299.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.geeknetic.es/comparador-precios/corsair-kit-32gb-2-x-16gb-ddr4-3200mhz-vengeance-lpx-black-cl16/comprar/",
+      "nota": "Sin cambios vs 299,95 EUR previo. WebSearch de hoy confirma de nuevo 299,95 EUR via comparador Geeknetic para PcComponentes (otro listado del mismo comparador muestra 307,99 EUR, posiblemente de otra fecha, no usado). WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Precio confirmado sin cambios."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -3092,6 +3148,13 @@
       "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
       "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
       "nota": "Sin cambios vs 589,95 EUR previo (22-25/10). WebSearch de hoy muestra la ficha de PcComponentes a 777,15 EUR pero marcada como de mas de un año de antigüedad, y Lifeinformatica (tienda no seguida) a 902,30 EUR en un snapshot de ~52 dias, ambos sin servir de confirmacion fiable para el precio actual en PcComponentes. WebFetch directo sigue bloqueado (confirmado de nuevo hoy). Vigesimo segundo dia consecutivo de bloqueo de red."
+    },
+    {
+      "fecha": "2026-10-27",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios vs 589,95 EUR previo. WebSearch de hoy confirma de nuevo 589,95 EUR en PcComponentes (articulo 432685, PVPR 654,84 EUR), coincidiendo con el comparador Geeknetic. WebFetch directo a pccomponentes.com/idealo.es/amazon.es sigue bloqueado (getaddrinfo ENOTFOUND / unable to fetch, confirmado de nuevo hoy). Vigesimo tercer dia consecutivo de bloqueo de red (26 sep - 27 oct). Precio confirmado sin cambios."
     }
   ]
 }
