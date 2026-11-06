@@ -419,6 +419,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
       "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR previo (no verificado hoy para la SKU exacta). WebSearch de hoy solo aporta datos sin fecha fiable: agregador gpupricehistory situa el minimo 16GB en 585 EUR (actualizado 22 oct 2026) y ASUS Dual 8GB a 359,90 EUR en PcComponentes pero con fecha de entrega de 2025 (dato obsoleto). WebFetch a pccomponentes.com/amazon.es/idealo.es bloqueado (ENOTFOUND / no permitido) por la politica de red del entorno. Se mantiene ultimo precio conocido sin evidencia fiable de cambio."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 394.99,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 8GB)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9060-xt-gaming-oc-8gb-gddr6-fsr-4",
+      "nota": "Variante 8GB VRAM. Sin cambios vs 394,99 EUR previo. WebSearch de hoy muestra capturas sin fecha fiable para la misma SKU Gigabyte GAMING OC 8GB: 374,99 EUR y 380,03 EUR (comparador Geeknetic, PcComponentes) y ofertas de vendedores terceros (OCASIONIA 362,59 EUR, Erksononline 383,70 EUR) no vendidas directamente por PcComponentes. Sin confirmacion de fecha de hoy. WebFetch a pccomponentes.com/idealo.es bloqueado (ENOTFOUND / fetch denegado) por la politica de red del entorno. Se mantiene ultimo precio conocido."
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -841,6 +848,13 @@
       "tienda": "PcComponentes (Zotac Twin Edge 8GB, no-OC)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4",
       "nota": "Variante 8GB VRAM. Sin cambios vs 389,90 EUR previo. WebSearch de hoy repite datos de julio 2026 (minimo 8GB ~392-394 EUR, 16GB ~589-609 EUR) y SKUs ya vistas en dias anteriores (Gigabyte EAGLE OC ~363 EUR, MSI VENTUS 2X OC PLUS ~394 EUR) sin fecha de hoy confirmada. WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido para la SKU trackeada sin evidencia fiable de cambio."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 389.9,
+      "tienda": "PcComponentes (Zotac Twin Edge 8GB, no-OC)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Variante 8GB VRAM. Sin cambios: WebSearch de hoy reconfirma 389,90 EUR para esta SKU exacta en PcComponentes, y el comparador Geeknetic muestra 391,99 EUR (PcComponentes) frente a Caseking 412,10 EUR y Beep 429 EUR. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "NVIDIA RTX 5070": [
@@ -1251,6 +1265,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
       "nota": "Variante 12GB VRAM. Sin cambios vs 612,00 EUR previo. WebSearch de hoy muestra un tracker con la misma Gigabyte GAMING OC 12GB a 607 EUR pero en PcComponentes/Amazon Francia (no Espana), ademas de un ASUS Dual OC a 612 EUR en PcComponentes ES (coincide) y variantes mas caras (Windforce OC SFF 649 EUR, PNY 731 EUR) en Amazon ES/DE sin fecha de hoy. WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido para la SKU trackeada en PcComponentes ES."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 612.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 12GB GDDR7)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5070-gaming-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Variante 12GB VRAM. Sin cambios vs 612,00 EUR previo. WebSearch de hoy muestra para la misma SKU precios dispares y sin fecha fiable: 699 EUR y 659 EUR en paginas de categoria de PcComponentes, 665,15 EUR en otra pagina, y una oferta puntual reportada por Chollometro a 579 EUR (bajada no confirmada con fecha de hoy, se marca como posible oferta a vigilar sin verificar). Otras tiendas: Informaticabarata 595,87 EUR, Coolmod 639,95 EUR. WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido para la SKU trackeada sin evidencia fiable de cambio."
     }
   ],
   "AMD Radeon RX 9070": [
@@ -1662,6 +1683,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
       "nota": "Variante 16GB VRAM. Sin cambios vs 669,00 EUR previo. WebSearch de hoy repite datos de agosto 2026 (gpuprix: minimo ES 655 EUR, actualizado 7 ago 2026; otro tracker 576 EUR/ media 673,6 EUR) y una oferta puntual de abril 2026 desde 629 EUR, todo sin fecha de hoy ni SKU exacta confirmada. WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido para la SKU trackeada."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 669.0,
+      "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
+      "nota": "Variante 16GB VRAM. Sin cambios: WebSearch de hoy reconfirma 669,00 EUR en la ficha de producto de PcComponentes para esta SKU exacta (40 opiniones, 4,2/5), aunque otra pagina de categoria de la misma tienda muestra 718,99 EUR y el comparador Geeknetic 689,00 EUR, sin fecha fiable que permita confirmar un cambio real. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -2072,6 +2100,13 @@
       "tienda": "PcComponentes",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 152,90 EUR en la ficha de PcComponentes Espana (valoracion 4,7/5, +2800 opiniones), vendido directamente por PcComponentes. WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 152.9,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
+      "nota": "Sin cambios: WebSearch de hoy no devuelve una captura actual de PcComponentes/Amazon.es/idealo.es para esta SKU; solo aparece Informatica Barata a 159,94 EUR (tienda alternativa, sin fecha clara) y precios de otros paises europeos (Bulgaria 164,63 EUR, Letonia 152,49 EUR) no comparables. WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido en PcComponentes."
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -2482,6 +2517,13 @@
       "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 115,75 EUR para esta SKU OEM exacta en PcComponentes Espana (articulo 10661485). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios: WebSearch de hoy no reconfirma directamente la SKU OEM trackeada; aparece la version Box de PcComponentes en torno a 139,90-139,98 EUR (SKU distinta, mas cara) y Informaticabarata a 113,51 EUR (solo 4 unidades, tienda alternativa). WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido para la SKU OEM trackeada."
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -2892,6 +2934,13 @@
       "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 158,06 EUR para la version Box (PVPR 376 EUR) tanto en PcComponentes como en el comparador Geeknetic. Otra ficha de PcComponentes muestra 184,55 EUR para una variante/snapshot distinta, no se usa por no coincidir con la SKU trackeada. WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios: WebSearch de hoy no reconfirma con fecha fiable esta SKU Box exacta; aparecen precios de ofertas sin fecha clara en otras tiendas (Geeknetic/3DJuegos 124-152 EUR, Coolmod ~122-124 EUR) y una ficha PcComponentes 'bulk' con opiniones antiguas a 304,24 EUR (SKU distinta, se descarta). WebFetch bloqueado (ENOTFOUND). Se mantiene ultimo precio conocido para la SKU Box trackeada."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -3307,6 +3356,13 @@
       "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
       "url": "https://www.pccomponentes.com/memorias-ram/corsair/kit-2x16gb",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 269,95 EUR como precio mas citado para este kit en varios listados de PcComponentes (+3000 opiniones, 4,8/5). Se ven snapshots dispares no fiables (260,98 EUR y 169,95 EUR con fechas de entrega de otra temporada, y 299,95 EUR en el comparador Geeknetic), se descartan por inconsistentes. WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 269.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/memorias-ram/corsair/kit-2x16gb",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 269,95 EUR (frente a PVPR 324,59 EUR) para este kit en PcComponentes. Comparador Geeknetic muestra snapshots mas antiguos (299,95 EUR PcComponentes, 309,90 EUR Caseking, 314,68 EUR Beep) no usados por ser menos recientes. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -3722,6 +3778,13 @@
       "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
       "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 589,95 EUR (PVPR 654,84 EUR) para este kit en la ficha de producto de PcComponentes, tambien listado como oferta mas barata en el comparador Geeknetic. WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-06",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 589,95 EUR en el comparador Geeknetic para PcComponentes (con envio gratuito, siguiente oferta mas barata a 1.036,76 EUR). Powerplanet aparece como alternativa a 610,95 EUR (frente a PVPR 818,94 EUR), mas cara que la SKU trackeada. WebFetch bloqueado (ENOTFOUND)."
     }
   ]
 }
