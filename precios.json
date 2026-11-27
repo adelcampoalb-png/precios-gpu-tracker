@@ -566,6 +566,13 @@
       "tienda": "PcComponentes (XFX 8GB GDDR6)",
       "url": "https://www.pccomponentes.com/categorias/tarjetas-graficas/amd-rx-9060-xt",
       "nota": "Variante 8GB VRAM. Sin cambios: WebSearch de hoy reconfirma la XFX 8GB en el listado de categoria de PcComponentes a 374,22 EUR (envio gratis), igual que el ultimo registro. Otras variantes 8GB (Gigabyte GAMING OC 394,99 EUR, Sapphire Pulse ~403-425 EUR) siguen por encima. Mañana 27/11 es el ultimo viernes de noviembre (Black Friday 2026), vigilar posibles bajadas. WebFetch bloqueado por la politica de red del entorno (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 374.22,
+      "tienda": "PcComponentes (XFX 8GB GDDR6)",
+      "url": "https://www.pccomponentes.com/categorias/tarjetas-graficas/amd-rx-9060-xt",
+      "nota": "Variante 8GB VRAM. Sin cambios: WebSearch de hoy (Black Friday, 27/11) no aporta un precio confirmado por debajo del ultimo registro para esta variante/tienda; se mantienen los 374,22 EUR. Se detectan chollos puntuales de otros modelos 16GB (PowerColor Reaper ~429 EUR) pero ya caducados o sin fecha verificable. WebFetch bloqueado por la politica de red del entorno (ENOTFOUND en pccomponentes.com, idealo.es, profesionalreview.com)."
     }
   ],
   "NVIDIA RTX 5060 Ti": [
@@ -1135,6 +1142,13 @@
       "tienda": "PcComponentes (Zotac Twin Edge 8GB, no-OC)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4",
       "nota": "Variante 8GB VRAM. Sin cambios confirmados: WebSearch de hoy muestra snapshots con Zotac Twin Edge 8GB a 429,59 EUR y Gigabyte WINDFORCE MAX OC 8GB a 403,99 EUR, ambas por encima del precio ya verificado; no se encontro confirmacion de mejora. Se mantiene ultimo precio guardado (389,90 EUR). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 389.9,
+      "tienda": "PcComponentes (Zotac Twin Edge 8GB, no-OC)",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "nota": "Variante 8GB VRAM. Sin cambios confirmados: se detecta un roundup de Black Friday de PcComponentes con el modelo Zotac AMP (gama superior, 16GB) a 599,99 EUR, pero no corresponde a la variante base 8GB que se sigue aqui. Se mantiene el ultimo precio verificado (389,90 EUR). WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "NVIDIA RTX 5070": [
@@ -1692,6 +1706,13 @@
       "tienda": "PcComponentes (PNY GeForce RTX 5070 Triple Fan 12GB GDDR7) - oferta flash/chollo",
       "url": "https://www.chollometro.com/ofertas/pny-tarjeta-grafica-geforce-rtx-5070-12gb-triple-ventilador-dlss-4-1929477",
       "nota": "Variante 12GB VRAM. Sin confirmacion de mejora hoy: WebSearch solo devuelve rangos de 650-700 EUR en agregadores (gpuprix, gpupricehistory) y referencias antiguas; ninguna por debajo del precio ya verificado. Se mantiene como oferta destacada (549,90 EUR) de cara al Black Friday 2026 (viernes 27/11, mañana). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 549.9,
+      "tienda": "PcComponentes (PNY GeForce RTX 5070 Triple Fan 12GB GDDR7) - oferta flash/chollo",
+      "url": "https://www.chollometro.com/ofertas/pny-tarjeta-grafica-geforce-rtx-5070-12gb-triple-ventilador-dlss-4-1929477",
+      "nota": "Variante 12GB VRAM. Se mantiene como oferta destacada de cara al Black Friday 2026 (hoy, 27/11): no se encontro una oferta confirmada por debajo de 549,90 EUR en tiendas fiables; otros roundups de Black Friday citan una ASUS PRIME RTX 5070 OC a 589,90 EUR en PcComponentes, por encima de la ya registrada. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "AMD Radeon RX 9070": [
@@ -2250,6 +2271,13 @@
       "tienda": "PcComponentes (Gigabyte GAMING OC 16GB GDDR6)",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-fsr-4",
       "nota": "Variante 16GB VRAM. Sin cambios confirmados en tiendas fiables: el agregador gpuprix menciona un 'current low' de 655 EUR en España (actualizado en agosto 2026, sin tienda/fecha verificable hoy), por lo que no se usa para actualizar el precio. Snapshots de PcComponentes muestran 669-679 EUR. Se mantiene ultimo precio verificado (669 EUR). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 568.9,
+      "tienda": "PcComponentes (Sapphire PULSE 16GB GDDR6) - oferta Black Friday",
+      "url": "https://www.muycomputer.com/2026/11/09/black-friday-en-pccomponentes-las-mejores-ofertas-actualizadas-a-diario/",
+      "nota": "Variante 16GB VRAM. BAJADA respecto al ultimo registro (669,00 EUR, Gigabyte Gaming OC): un roundup de ofertas de Black Friday de PcComponentes (muycomputer/profesionalreview, actualizado a diario durante la campana que termina el 29/11) cita la Sapphire PULSE RX 9070 16GB a 568,90 EUR, un -14,97% vs el ultimo precio guardado. Cambio de modelo/board-partner (antes Gigabyte, ahora Sapphire) dentro de la misma variante 16GB, siguiendo el criterio de precio mas bajo disponible. No se pudo verificar el precio en vivo via WebFetch (ENOTFOUND en pccomponentes.com y profesionalreview.com), por lo que se recomienda reconfirmar en tienda antes de comprar."
     }
   ],
   "AMD Ryzen 5 5600XT": [
@@ -2807,6 +2835,13 @@
       "tienda": "PcComponentes",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
       "nota": "Sin cambios: WebSearch de hoy no devuelve ficha de PcComponentes con precio distinto al ya registrado (los resultados de PcComponentes se confunden con el 5600X/5600). Se detecta el modelo en Powerplanet a 143,95 EUR, pero esa tienda queda fuera del alcance definido (PcComponentes/Amazon.es/idealo.es), por lo que no se usa para actualizar el precio. WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 152.9,
+      "tienda": "PcComponentes",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600xt-37ghz",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 152,90 EUR en PcComponentes (categoria Ryzen 5, 4,7/5 con 81 opiniones). No se encontraron ofertas de Black Friday especificas para este modelo en tiendas dentro del alcance definido. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "AMD Ryzen 5 5600": [
@@ -3364,6 +3399,13 @@
       "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 115,75 EUR para la version OEM; la version Box sigue mas cara (139,90-144,81 EUR). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 115.75,
+      "tienda": "PcComponentes (version OEM/bulk, la mas economica encontrada)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600-3-5ghz-4-4ghz-oem",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 115,75 EUR para la version OEM; la version Box sigue mas cara (139,90-149,90 EUR). WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "AMD Ryzen 5 5600X": [
@@ -3921,6 +3963,13 @@
       "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
       "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 158,06 EUR (PVPR 376 EUR). Menciones sueltas de 149,89 EUR y 309,49 EUR en articulos de prensa sin fecha clara, no verificables como precio vigente. Se mantiene ultimo precio verificado (158,06 EUR). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 158.06,
+      "tienda": "PcComponentes (version Box, PN 100-100000065BOX, vendido directamente por PcComponentes)",
+      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-5600x-3-7ghz",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 158,06 EUR (PVPR 376 EUR). No se encontraron ofertas de Black Friday especificas verificables por debajo de este precio. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x16GB (32GB total)": [
@@ -4483,6 +4532,13 @@
       "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
       "url": "https://www.pccomponentes.com/memorias-ram/corsair/kit-2x16gb",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 269,95 EUR en PcComponentes. Se detectan snapshots inconsistentes (176-338 EUR) de un kit alternativo Corsair Vengeance RGB RS 2x16GB CL16, demasiado dispares para confiar en ellos como precio vigente; no se usan para actualizar. WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 269.95,
+      "tienda": "PcComponentes (Corsair Vengeance LPX CMK32GX4M2E3200C16, CL16)",
+      "url": "https://www.pccomponentes.com/memorias-ram/corsair/kit-2x16gb",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 269,95 EUR en PcComponentes. Se detectan ofertas de Black Friday en Amazon US para el kit DDR4 3200MHz equivalente (~250 USD), pero no son de la tienda espanola ni confirman un precio menor en EUR. Mercado de RAM al alza por escasez global, vigilar posibles subidas. WebFetch bloqueado (ENOTFOUND)."
     }
   ],
   "Kit RAM DDR4 3200MHz 2x32GB (64GB total)": [
@@ -5045,6 +5101,13 @@
       "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
       "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
       "nota": "Sin cambios: WebSearch de hoy reconfirma 589,95 EUR en PcComponentes (PVPR 654,84 EUR). Version RGB sigue mas cara (649,80 EUR). WebFetch bloqueado (ENOTFOUND)."
+    },
+    {
+      "fecha": "2026-11-27",
+      "precio_eur": 589.95,
+      "tienda": "PcComponentes (Kingston FURY Beast KF432C16BBK2/64, CL16)",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-64gb-2x32gb-cl16",
+      "nota": "Sin cambios: WebSearch de hoy reconfirma 589,95 EUR en PcComponentes (PVPR 654,84 EUR). No se encontro oferta de Black Friday verificable por debajo de este precio. WebFetch bloqueado (ENOTFOUND)."
     }
   ]
 }
